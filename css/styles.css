@@ -48,12 +48,12 @@ icon-5{
     border: none;
 }
 /* Typography */
- .type1, .grid-3{
+ .type1 {
     font-family: copperplate;
 }
 
-.type2, .grid-3{
-    font-family: Rockwell;
+.type2 {
+    font-family: rockwell extra bold;
    
 }
 
