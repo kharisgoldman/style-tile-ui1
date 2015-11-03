@@ -32,7 +32,21 @@
 
 /* Icons */
 
-
+icon-1{
+    border: none;
+}
+icon-2{
+    border: none;
+}
+icon-3{
+    border: none;
+}
+icon-4{
+    border: none;
+}
+icon-5{
+    border: none;
+}
 /* Typography */
  .type1, .grid-3{
     font-family: copperplate;
@@ -44,9 +58,17 @@
 }
 
 h2{
-     color: 710403;
+     color: #710403;
+}
+ 
+h3{
+    color: #6C6F74;
+    
 }
 
+a{
+    color: #CC0705;
+}
 .button-a{
     background: #6C6F74;
     color: #ffffff;
@@ -66,5 +88,5 @@ h2{
 /* Cards */
 
 .figure {
-     background: 710403;
+     background: #710403;
 }
