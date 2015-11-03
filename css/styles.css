@@ -42,6 +42,16 @@
     font-family: Rockwell;
 }
 
+.button-a{
+    background: #6C6F74;
+    color: #ffffff;
+}
+
+.button-b{
+    background: #F2F0F2;
+    color: #6C6F74;
+}
+
 /* Forms */
 
 
