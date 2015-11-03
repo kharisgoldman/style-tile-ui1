@@ -40,6 +40,11 @@
 
 .type2, .grid-3{
     font-family: Rockwell;
+   
+}
+
+h2{
+     color: 710403;
 }
 
 .button-a{
@@ -60,4 +65,6 @@
 
 /* Cards */
 
-
+.figure {
+     background: 710403;
+}
