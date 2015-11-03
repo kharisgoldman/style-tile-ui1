@@ -35,11 +35,11 @@
 
 /* Typography */
  .type1, .grid-3{
-    font-family: copperplate
+    font-family: copperplate;
 }
 
 .type2, .grid-3{
-    font-family: century gothic
+    font-family: Rockwell;
 }
 
 /* Forms */
